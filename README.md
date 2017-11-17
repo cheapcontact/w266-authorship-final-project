@@ -1,4 +1,4 @@
-# w266-authoriship-final-project
+# w266-authorship-final-project
 W266 Final Project - The Federalist Papers - Authorship Attribution
 
 [Proposal](https://docs.google.com/document/d/1CHRpjHSkUJMX1DR0pms1wnwZ7JolXlRORkkrbDeq3tE/edit#)  
