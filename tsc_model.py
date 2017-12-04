@@ -56,6 +56,20 @@ def sample_batch(X_train,y_train,batch_size):
   y_batch = y_train[ind_N]
   return X_batch,y_batch
 
+def batch_generator(X, y, batch_size):
+    """Convert ids to data-matrix form."""
+    # Clip to multiple of max_time for convenience
+    clip_len = ((len(ids)-1) / batch_size) * batch_size
+    input_w = ids[:clip_len]     # current word
+    target_y = ids[1:clip_len+1]  # next word
+    # Reshape so we can select columns
+    input_w = input_w.reshape([batch_size,-1])
+    target_y = target_y.reshape([batch_size,-1])
+
+    # Yield batches
+    for i in xrange(0, input_w.shape[1], max_time):
+        yield input_w[:,i:i+max_time], target_y[:,i:i+max_time]
+
 
 class Model():
   def __init__(self,config):
@@ -97,7 +111,8 @@ class Model():
       loss = tf.nn.sparse_softmax_cross_entropy_with_logits(logits=logits,labels=self.labels,name = 'softmax')
       self.cost = tf.reduce_sum(loss) / self.batch_size
     with tf.name_scope("Evaluating_accuracy") as scope:
-      correct_prediction = tf.equal(tf.argmax(logits,1),self.labels)
+      self.predictions = tf.argmax(logits,1)
+      correct_prediction = tf.equal(self.predictions,self.labels)
       self.accuracy = tf.reduce_mean(tf.cast(correct_prediction, "float"))
       h1 = tf.summary.scalar('accuracy',self.accuracy)
       h2 = tf.summary.scalar('cost', self.cost)
