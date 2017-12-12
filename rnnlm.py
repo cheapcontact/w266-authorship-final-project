@@ -204,12 +204,13 @@ class RNNLM(object):
            self.b_out_ = tf.Variable(tf.zeros([self.num_classes,], tf.float32), name="b_out")
            self.logits_ = matmul3d(self.outputs_, self.W_out_) + self.b_out_
            # we only care about the last logits for classification
-           #self.logits_ = tf.reshape(self.logits_[:,self.max_time_-1], [self.batch_size_,1,self.num_classes])
-        
+           self.logits_last_ = tf.reshape(self.logits_[:,self.max_time_-1], [self.batch_size_,1,self.num_classes])
+
         # Loss computation (true loss, for prediction)
-        # we only care about the last logits for classification
-        #self.target_y_ = tf.reshape(self.target_y_[:,self.max_time_-1], [self.batch_size_,1])
-        self.loss_ = tf.reduce_mean(tf.nn.sparse_softmax_cross_entropy_with_logits(logits=self.logits_, labels=self.target_y_, name="logits"))
+        # we only need one target value for classification, need to reshape to match logits_last_
+        self.target_y_last_ = tf.reshape(self.target_y_[:,self.max_time_-1], [self.batch_size_,1])
+
+        self.loss_ = tf.reduce_mean(tf.nn.sparse_softmax_cross_entropy_with_logits(logits=self.logits_last_, labels=self.target_y_last_, name="loss"))
 
 
     @with_self_graph
