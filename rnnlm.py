@@ -81,7 +81,7 @@ class RNNLM(object):
         self.SetParams(*args, **kwargs)
 
     @with_self_graph
-    def SetParams(self, V, H, num_classes, softmax_ns=200, num_layers=1):
+    def SetParams(self, V, H, num_classes, num_layers=1):
         # Model structure; these need to be fixed for a given model.
         self.V = V
         self.H = H
@@ -92,11 +92,6 @@ class RNNLM(object):
         # and you may want to do so during training.
         with tf.name_scope("Training_Parameters"):
             # Number of samples for sampled softmax.
-            if softmax_ns > self.num_classes:
-               self.softmax_ns = self.num_classes
-            else:
-               self.softmax_ns = softmax_ns
-
             self.learning_rate_ = tf.placeholder(tf.float32, [], name="learning_rate")
 
             # For gradient clipping, if you use it.
@@ -234,9 +229,9 @@ class RNNLM(object):
         self.train_step_ = self.optimizer_.minimize(self.loss_, self.global_step_)
 
 
-#    @with_self_graph
-#    def BuildClassifierGraph(self):
-#        """Construct the classifier ops.
-#        """
-#        self.predictions = tf.argmax(self.logits_,1)
+    @with_self_graph
+    def BuildClassifierGraph(self):
+        """Construct the classifier ops.
+        """
+        self.predictions_ = tf.argmax(self.logits_last_,2)
 
