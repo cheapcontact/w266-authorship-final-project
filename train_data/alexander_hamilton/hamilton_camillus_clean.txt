@@ -1,13 +1,8 @@
- CAMILLUS 1 (From the Argus .)
+﻿ CAMILLUS 1 (From the Argus .)
 
 
 DEFENCE OF MR. JAY’S TREATY
 
-
-NO . I
-
-
-July 22, 1795.
 
 IT was to have been foreseen, that the treaty which Mr. Jay was charged to negotiate with Great Britain, whenever it should appear, would have to contend with many perverse dispositions and some honest prejudices; that there was no measure in which the government could engage, so little likely to be viewed according to its intrinsic merits—so very likely to encounter misconception, jealousy, and unreasonable dislike. For this, many reasons may be assigned.
 
@@ -92,15 +87,6 @@ To every man who is not an enemy to the national government, who is not a prejud
 It will be understood that I speak of the treaty as advised to be ratified by the Senate—for this is the true question before the public.
 
 
-
-
-
-
-
-NO . II
-
-
-1795.
 
 Previous to a more particular discussion of the merits of the treaty, it may be useful to advert to a suggestion which has been thrown out, namely: that it was foreseen by many that the mission to Great Britain would produce no good result, and that the event has corresponded with the anticipation.
 
@@ -202,15 +188,6 @@ The provisions with regard to commerce were incidental and auxiliary. The reason
 
 
 
-
-
-
-
-NO . III
-
-
-1795.
-
 The opposers of the treaty seem to have put invention on the rack, to accumulate charges against it, in a great number of cases, without regard even to plausibility. If we suppose them sincere, we must often pity their ignorance; if insincere, we must abhor the spirit of deception which it betrays. Of the preposterous nature of some of their charges, specimens will be given in the course of these remarks; though, while nothing which is colorable will remain unattended to, it were endless to attempt a distinct refutation of all the wild and absurd things which are and will be said. It is vain to combat the vagaries of diseased imaginations. The monsters they engender are no sooner destroyed than new legions supply their places. Upon this, as upon all former occasions, the good sense of the people must be relied upon; and it must be taken for granted, that it will be sufficient for their conviction to give solid answers to all such objections as have the semblance of reason; that now, as heretofore, they will maintain their character abroad and at home for deliberation and reflection, and disappoint those who are in the habit of making experiments upon their credulity, who, treating them as children, fancy that sugar-plums and toys will suffice to gain their confidence and attachment, and to lead them blindfold whithersoever it is desired.
 
 In considering the treaty, it presents itself under two principal heads: the permanent articles, which are the first ten, and which, with some supplementary provisions, adjust the controverted points between the two countries; and the temporary articles, which are all the remaining ones, and which establish the principles of mutual intercourse, as to GENERAL navigation and commerce. The manner of the discussion will correspond with this natural division of the subject.
@@ -307,16 +284,6 @@ We are compelled, then, by our own example to agree with Great Britain, that she
 
 Having now examined the nature of the infractions of the treaty of peace charged upon Great Britain with reference to dates, I shall, in the next number of this defence, trace some instances of infraction on our part with a like reference. The conclusions to be drawn from this comparison, if I mistake not, will greatly disconcert some articles of the prevailing creed on this head, and go far towards confirming what was preliminarily offered to evince the prudence of our envoy in relinquishing the favorite ground.
 
-.
-
-
-
-
-
-NO . IV
-
-
-1795.
 
 An accurate enumeration of the breaches of the treaty of peace on our part, would require a tedious research. It will suffice to select and quote a few of the most prominent and early instances.
 
@@ -373,17 +340,6 @@ I pass by the serious contraventions of the treaty in this important article of 
 The argument, then, upon the whole, as to the question of the first breach, stands thus: It is a great doubt whether the carrying away of the Negroes was at all a breach. If it was one, the trespass act of this State preceded it in date, and went into operation the very moment it was possible to issue process. The detention of the posts is subsequent to breaches of the article concerning their recovery of debts on our part. This, in the case of South Carolina, is determined by the date of her act (March 26, 1784), which is before the exchange of the ratifications of the definitive treaty could have taken place. In that of Virginia, it results from her own testimony, that impediments to the recovery of British debts, created by acts passed during the war, continued from the first moment of the peace until after the year 1787. Or if, contrary to our own interpretation, we are disposed to adhere to the provisional treaty, as the act from which performance was to date, we are guilty of a breach in not acting ourselves upon that treaty; a breach which, being contemporary with the existence of the treaty, seems not to admit of any prior contravention. From all which it follows, that take what ground we will, we must be perplexed to fix the charge of the first breach of the treaty upon Great Britain.
 
 Let the appeal be to the understandings and hearts of candid men—men who have force of mind sufficient to rescue themselves from the trammels of prejudice, and who dare to look even unpalatable truths in the face. Let such men pronounce, whether they are still satisfied that Great Britain is clearly chargeable with the first breaches of the treaty? whether they are not, on the contrary, convinced that the question is one so mixed and doubtful, as to render a waiver of it, even on the score of intrinsic merit, expedient on our part? and especially whether they can entertain a particle of doubt, that it was wiser to waive it than to suffer it to prove a final obstacle to the adjustment of a controversy on which the peace of their country was suspended? This was undoubtedly the alternative to our envoy. In the choice he made, the ultimate opinion of our enlightened country cannot fail to applaud his prudence.
-
-
-
-
-
-
-
-NO . V
-
-
-1795.
 
 The discussion in the last two numbers has shown, if I mistake not, that this country by no means stands upon such good ground, with regard to the inexecution of the treaty of peace, as some of our official proceedings have advanced, and as many among us have too lightly credited. The task of displaying this truth has been an unwelcome one. As long as a contrary doctrine was either a mere essay of polemical skill, or a convenient ingredient of negotiation, it was natural for those who thought differently of it, to prefer silence to contradiction; but when it is made the engine of great errors, of national conduct, of excessive pretensions, which forbid a reasonable accommodation of national difference, and endanger rupture and war, on grounds which reason disapproves and prudence condemns, it becomes an indispensable duty to expose its hollowness and fallacy. Reserve then would be a crime. The true patriot, who never fears to sacrifice popularity to what he believes to be the cause of public good, cannot hesitate to endeavor to unmask the error, though with the certainty of incurring the displeasure and censure of the prejudiced and unthinking.
 
@@ -444,16 +400,6 @@ Suppositions that more could be done by displaying what is called greater spirit
 But it is asked, to avoid Scylla, may we not run upon Charybdis? If the treaty should preserve our peace with Britain, may it not interrupt it with France? I answer, that to me there appears no room for apprehension. It will be shown in the course of the discussion, that the treaty interferes in no particular with our engagements to France, and will make no alteration whatever in the state of things between us and her , except as to the selling prizes in our ports, which, not being required by treaty, was originally permitted merely because there was no law to forbid it, and which being confined to France, was of very questionable propriety on the principles of neutrality, and has been a source of dissatisfaction to the other belligerent powers. This being the case, no cause of umbrage is given to France by the treaty, and it is as contrary to her interest as to inclination, want only to seek a quarrel with us. Prostrate indeed were our situation, if we could not, without offending France, make a treaty with another power, which merely tended to extinguish controversy, and to regulate the rules of commercial intercourse, and this not only without violating any duty to France, but without giving any preference to another. It is astonishing that those who affect so much nicety about national honor, do not feel the extreme humiliation of such an idea. As to the denomination of alliance with Great Britain which has been given to the treaty, it is an insult to the understandings of the people to call it by such a name. There is not a tittle of it which warrants the appellation.
 
 
-
-
-
-
-
-NO . VI
-
-
-1795.
-
 There is one more objection to the treaty for what it does not do, which requires to be noticed. This is an omission to provide against the impressment of our seamen.
 
 It is certain that our trade has suffered embarrassments in this respect, and that there have been abuses which have operated very oppressively upon our seamen; and all will join in the wish that they could have been guarded against in future by the treaty.
@@ -496,16 +442,6 @@ There can hardly have been a time when a treaty was formed between two nations, 
 
 It follows that the objection which has been taken to this article is wholly without foundation. It is humiliating to the human understanding, or disreputable to the human heart, that similar objections should come from sensible men; it is disgustful to have to refute them. The regard I feel for some of those who have brought it forward makes it a painful task. How great is the triumph of passion over the judgment on this occasion!
 
-
-
-
-
-
-
-NO . VII
-
-
-1795.
 
 The second article of the treaty stipulates that his Britannic Majesty will withdraw all his troops and garrisons from all posts and places within the boundary lines assigned by the treaty of peace to the United States; and that this evacuation shall take place on or before the first day of June, 1796; the United States, in the meantime, at their discretion , extending their settlements to any part within the said boundary lines, except within the precincts or jurisdictions of any of the said posts; that all settlers and traders within the precincts or jurisdictions of the said posts, shall continue to enjoy, unmolested, all their property of every kind, and shall be protected therein; that they shall be at liberty to remain there, or to remove with all or any part of their effects; also to sell their lands, houses, or effects, or to retain the property thereof at their discretion; that such of them as shall continue to reside within the said boundary lines shall not be compelled to become citizens of the United States, but shall be at liberty to do so, if they think proper, making and declaring their election within a year after the evacuation; and that those who should continue after the expiration of a year, without having declared their intention of remaining subjects of his Britannic Majesty, shall be considered as having elected to become citizens of the United States.
 
@@ -562,17 +498,6 @@ But to judge the better of the extravagance of these declamations, it will be us
 It may not be improper to add, that if we credit the representations of our envoy, Great Britain manifested similar dispositions with regard to the treaty at the commencement as at the close of the negotiation; whence it will follow that too much has been attributed in this country to the victories of France.
 
 The subject of the second article will be resumed and concluded in the next number.
-
-
-
-
-
-
-
-NO . VIII
-
-
-1795.
 
 One of the particulars in which our envoy is alleged to have fallen short of what might or ought to have been done, respects the time for the surrender of the Western posts. It is alleged, that there ought either to have been an immediate surrender, or some guaranty or surety for the performance of the new promise. Both parts of the alternative presuppose that Great Britain was to have no will upon the subject; that no circumstances of security or convenience to her were to be consulted; that our envoy was not to negotiate, but to command. How unsubstantial the foundation on which this course of proceeding is recommended, has been already developed.
 
@@ -647,16 +572,6 @@ This likewise would be the end of a war undertaken to enforce the claim of indem
 The idea which has been thrown out, of leaving the posts in the hands of the British, till we might be better able than at present to go to war for indemnification, is a notable political expedient. This would be to postpone, of choice, the possession of an object which has been shown to be demanded by very urgent and important general considerations; to submit to certain and great inconveniences from that privation, including probably the continuance or renewal of Indian hostilities; and to run the risk, from the growth of the British settlements in the neighborhood of the posts, and various unforeseen casualties, of their ultimate acquisition becoming difficult and precarious. For what? why, to take at last the chances of war, the issue of which is ever doubtful, to obtain an object which, if obtained, will certainly cost more than it is worth. The expenses of war apart, pecuniary indemnification upon any possible scale will ill compensate for the evils of the future detention, till the more convenient time for going to war should arrive. What should we think of this policy, if it should turn out that the posts and the indemnification too were to be finally abandoned?
 
 
-
-
-
-
-
-NO . IX
-
-
-1795.
-
 It was my intention to have comprised in two numbers the examination of the second article; but, on experiment, it was found expedient to add a third. I resume, for a moment, the subject of indemnification for the detention of the posts.
 
 As an inducement to persist in this claim, we are assured that the magnanimity of France would have procured for us its establishment. In the first place, this supposes that we were to have become a party in the war; for, otherwise, it would be silly to imagine that France would, on our account, embarrass herself with a difficulty of this sort. In this case, and supposing the object accomplished, still the injuries, losses, and expenses of war would have greatly overbalanced the advantage gained. But what certainty have we that France will be able to dictate terms even for herself? Could we expect or rely, after the terrible and wasting war in which she has been engaged, that she would be willing to encumber the making of peace with additional obstacles, to secure so trifling a point with us? Would it be even humane or friendly in us to ask her to risk the prolonging of her calamities for so trivial an object? A conduct like this, with reference either to France or to ourselves, would resemble that of the gamester who should play millions against farthings . It is so preposterous in every sense, that the recommendation of it, if sincere, admits of but one construction—namely, that those who recommend it wish our envoy to have acted not as if he had been sent to make peace , but as if he had been sent to make war , to blow and spread the desolating flames of discord and contention.
@@ -699,14 +614,6 @@ Thus have I gone through every objection to the second article, which is in any 
 
 
 
-
-
-
-
-NO . X
-
-
-1795.
 
 The object of the third article is connected with that of the second. The surrender of the posts naturally drew with it an arrangement with regard to inland trade and navigation. Such an arrangement, convenient in several respects, appears to be in some respects necessary. To restrain the Indians on either side of the line from trading with the one party or the other, at discretion, besides the questionableness of the right, could not be attempted without rendering them disgusted and hostile. The truth of this seems to have influenced the conduct of Great Britain and France, while the latter was in possession of Canada. The 15th article of the treaty of peace of Utrecht, in the year 1713, allows free liberty to the Indians on each side to resort for trade to the British and French colonies. It is to be observed, too, that the Indians not only insist on a right of going to trade with whom they please, but of permitting whom they please to come to trade with them, and also to reside among them for that purpose. Thus, the Southern and Southwestern Indians within our limits maintain a constant intercourse with Spain, established on the basis of treaty,—nor has their right to do it been hitherto contested by the United States. Indeed, on what clear principle of justice could this natural right of trade, of a people not subject to our ordinary jurisdiction, be disputed? This claim, on their part, gives a corresponding claim to neighboring nations to trade with them. Spain would think the pretension to exclude her inadmissible; and Great Britain would have thought the same, if she had found it her interest to assert the right of intercourse;—views which would always be seconded by the Indians from regard to their own interest and independence. It was a point, therefore, which it much concerned the preservation of good understanding between the parties and with the Indians, to regulate on some equitable plan; and the more liberal the plan, the more agreeable to a natural course of things, and to the free participation of mutual advantages, the more likely was it to promote and prolong that important benefit.
 
@@ -772,16 +679,6 @@ I shall conclude this paper with an observation or two on the meaning of the ter
 
 In the case under consideration, the general spirit of the article may require, that all the waters which divide the territories of the parties should be in their whole extent common to both. As to other communicating waters, accessible under the article, the reciprocal limit of the right will be the ports of entry from the sea. This is to be understood with the exception of the Mississippi, to the ports of which, access from the sea is granted under the qualification which has been pointed out.
 
-
-
-
-
-
-
-NO . XI
-
-
-1795.
 
 The foregoing analysis of the third article, by fixing its true meaning, enables us to detect some gross errors, which have been principal sources of prejudice against it. One of these is, that the article gives to the other party a right of access to all our ports, while it excludes us from the ports of the British territories in our neighborhood. It has been clearly shown that it gives no right of access to any one of our Atlantic ports, and that it gives only a qualified and conditional access to the ports which we may have on the Mississippi, to be regulated by the privileges at any time allowed by law or compact in our Atlantic ports, and liable to cease with the cessation of those privileges. The charge, therefore, of want of reciprocity in this particular, vanishes, and with it all the exceptionable consequences which have been the fruit of the error. Such is the assertion of DECIUS , that a British trader may set out from Canada, traverse our lakes, rivers, and waters to New York, and thence to Philadelphia, while we are precluded from the navigation of the St. Lawrence, and other British rivers lower than the highest ports of entry from the sea. It would be an indulgent construction of the article, not to stop the British trader at Hudson, as the highest port of entry from the sea, and the boundary of inland navigation; but he could certainly have no claim of right under it, to go from New York to Philadelphia, because he must necessarily go by sea to arrive at the first place, and no such permission is stipulated by the article. Such, also, is the assertion of CATO , that Great Britain is admitted to all the advantages of which our Atlantic rivers are susceptible. The rivers, upon which no part of their territory borders, and which their vessels can only approach by sea, are certainly excepted.
 
@@ -852,16 +749,6 @@ In the second place, the prohibition of residence in the act of navigation, proc
 The whole of the article is an innovation upon the British act of navigation. Being abrogated as to the principal thing, there is no difficulty in supposing it so as to incidents; on the other hand, to pretend to exclude us from the right of residence, could not be deemed a fair execution of the article. Hence we find, that the want of reciprocity in this particular also fails, and with it the supposed disadvantage on our side in the supposed competition for the trade.
 
 
-
-
-
-
-
-NO . XII
-
-
-1795.
-
 The remaining allegations in disparagement of the third article, are to this effect: 1. That the exception of the country of the Hudson’s Bay company, owing to its undefined limits, renders the stipulations in our favor, in a great measure, nugatory. 2. That the privileges granted to Great Britain in our Mississippi ports, are impolitic, because without reciprocity. 3. That the agreement to forbear to lay duties of entry on peltries, is the surrender, without equivalent, of a valuable item of revenue, and will give the British the facility of carrying on their fur trade through us, with the use of our advantages. 4. That the articles which will be brought from Europe into Canada coming duty free, can be afforded cheaper than the same articles going thither from us charged with a heavy duty on their importation into the United States, and with the expense of a long transportation by land, and inland navigation. 5. That the population of Canada, which, by a census of 1784, amounted only to 123,082 souls, is too small to render the supply of European and Asiatic commodities, through us, of so much importance as to bear any comparison with the loss by the sacrifice of the fur trade. 6. That the intercourse to be permitted with the British territories, will facilitate smuggling to the injury of our revenue. 7. That the much greater extent of the United States than of the British territories destroys real reciprocity in the privileges granted by this article, giving, in fact, far greater advantages than are received. These suggestions will be discussed in the order in which they are here stated.
 
 
@@ -923,16 +810,6 @@ In this large view of the subject, the fur trade which has made a very prominent
 The result of the whole is, that the United States make, by the third article of the treaty, a good bargain; that with regard to the fur trade, with equality of privileges and superior advantages of situation, we stake one against seven, or at most one against six; that as to the trade in European and East Indian goods and in home productions, we make an equal stake with some advantages of situation; that we open an immense field of future enterprise; that we avoid embarrassments and dangers ever attendant on an artificial and prohibitory policy, which, in reference to the Indian nations, was particularly difficult and hazardous; and that we secure those of a natural and liberal policy, and give the fairest chances for good neighborhood between the United States and the bordering British territories, and consequently of good understanding with Great Britain, conducing to the security of our peace. Experience, no doubt, will demonstrate that the horrid spectres which have been conjured up are fictions; and if it should even be slow to realize the predicted benefits,—for time will be requisite to give permanent causes their due effect in controlling temporary circumstances—it will at last prove that the predicted evils are chimeras and cheats.
 
 
-
-
-
-
-
-NO . XIII
-
-
-1795.
-
 The fourth and fifth articles of the treaty, from similarity of object, will naturally be considered together. The fourth, reciting a doubt, “whether the river Mississippi extends so far northwestward as to be intersected by a line drawn due west from the Lake of the Woods, in the manner mentioned by the treaty of peace,” agrees that measures shall be taken in concert between the two governments, to make a joint survey of that river, from a degree of latitude below the falls of St. Anthony, to the principal source or sources thereof, and of the parts adjacent thereto; and that if in the result it should appear that the said river would not be intersected by such a line as above mentioned, the two parties will proceed by amicable negotiation to regulate the boundary line in that quarter, as well as all other points to be adjusted between them, according to justice and mutual convenience, and the intent of the treaty of peace. The fifth, reciting that doubts have arisen, what river was truly intended under the name of the river St. Croix, mentioned in the treaty of peace, and forming a part of the boundary therein described, provides that the ascertainment of the point shall be referred to three commissioners, to be appointed thus: One to be named by his Britannic Majesty, another by the President of the United States, with the advice and consent of the Senate, the third by these two, if they can agree in the choice; but if they cannot agree, then each of them to name a person, and out of the persons named, one drawn by lot in their presence to be the third commissioner. These commissioners are to meet at Halifax, with power to adjourn to any place or places they may think proper; are to be sworn to examine and decide the question according to the evidence which shall be laid before them by both parties; and are to pronounce their decision, which is to be conclusive, by a written declaration under their hands and seals, containing a description of the river, and particularly the latitude and longitude of its mouth and of its source.
 
 These articles, though they have been adjusted with critical propriety, have not escaped censure. They have even in one instance been severely reprobated, as bringing into question things about which there was no room for any—and which a bare inspection of the map was sufficient to settle.
@@ -972,15 +849,6 @@ A reflection not unimportant occurs here. It was, perhaps, in another sense than
 
 
 (From the Argus .)
-
-
-
-
-
-NO . XIV
-
-
-1795.
 
 The sixth article stipulates compensation to British creditors for losses and damages which may have been sustained by them, in consequence of certain legal impediments, which, since the treaty of peace with Great Britain, are alleged to have obstructed the recovery of debts bona fide contracted with them before the peace.
 
@@ -1048,16 +916,6 @@ Mr. Jefferson has no doubt offered arguments of real weight to establish the pos
 
 Let it be remembered that the Government of Great Britain has to consult the interests and opinions of its citizens, as well as the Government of the United States those of their citizens. The only satisfactory course which the former could pursue, in reference to its merchants, was to turn over the whole question of interest as well as principal to the commissioners. And as this was truly equitable, the Government of the United States could make no well-founded opposition to it.
 
-
-
-
-
-
-
-NO . XV
-
-
-1795.
 
 It is the business of the seventh article of the treaty, to provide for two objects: one, compensation to our citizens for injuries to their property, by irregular, or illegal captures, or condemnations; the other, compensation to British citizens for captures of their property within the limits and jurisdiction of the United States, or elsewhere, by vessels originally armed in our ports, in the cases in which the captured property having come within our posts and power, there was a neglect to make restitution .
 
@@ -1144,16 +1002,6 @@ Will any man of candor and equity say that a better provision ought to have been
 The alternative was immediate indemnification, by actual payment in whole or in part, without examination of the extent or justice of claims; or future indemnification, after a due investigation of both in some equitable and effectual mode. The first was attended with difficulties on our side, and with solid objections on the other side. The last was therefore the truly reasonable course, and it has been pursued on a very proper plan. The causes of loss and damage are fully embraced. They are referred to the decision of an unexceptionable tribunal, to be guided by unexceptionable rules, and the indemnification which may be awarded, is to be paid fully, immediately, and without detour by the British Government itself. Say, ye impartial and enlightened, if all this be not as it ought to have been!
 
 
-
-
-
-
-
-NO . XVI
-
-
-1795.
-
 The second object of the seventh article, as stated in my last number, is “compensation to British citizens, for captures of their property within the limits and jurisdiction of the United States, or else-where, by vessels originally armed in our ports, in the cases in which the captured property having come within our power, there was a neglect to make restitution.”
 
 This precise view of the thing stipulated, is calculated to place the whole subject at once before the mind, in its true shape; to evince the reasonableness of it, and to dismiss the objections which have been made, as being foreign to the real state of the case. These objections are, in substance, that the compensation promised is of great extent and amount; that an enormous expense is likely to be incurred; and that it is difficult to prove that a neutral nation is under an obligation to go the lengths of the stipulation.
@@ -1212,16 +1060,6 @@ The opinions of Mr. Jefferson, when they can be turned to the discredit of the t
 
 This case of British property captured by privateers originally armed in our ports, falsifies the assertion of the adversaries of the treaty, that the pretensions of Great Britain have been fully provided for. She had a colorable ground to claim compensation for all captures made by vessels armed in our ports, whithersoever carried in, or howsoever disposed of, especially where their equipment had been tolerated by our Government. This toleration was to be inferred, as well from a forbearance to suppress those vessels when they came within our power, as from an original permission. Had compensation been stipulated on this scale, it is not certain that it would not have amounted to as much more than that which has been promised, as would counterbalance our claims for negroes carried away, and for the detention of the posts. But instead of this, it is narrowed down by the treaty to such prizes of those vessels as were brought within our ports, and in respect to which we forbore to use all the means in our power for restitution. Here, then, is a setoff against doubtful and questionable claims relinquished on our side. Here, also, is another proof how much the antagonists of the treaty are in the habit of making random assertions. But can we wonder at it, when we reflect that they have undertaken to become the instructors of their fellowcitizens on a subject, in the examination of which they unite a very superficial knowledge with the most perverse dispositions?
 
-
-
-
-
-
-
-NO . XVII
-
-
-1795.
 
 The eighth article provides merely, that the commissioners to be appointed in the three preceding articles, shall be paid in such manner as shall be agreed between the parties, at the time of the exchange of the ratification of the treaty; and that all other expenses attending the commissions, shall be defrayed jointly by the two parties, the same being previously ascertained and allowed by a majority of the commissioners; and that in case of death, sickness, or necessary absence of a commissioner, his place shall be supplied in the same manner as he was first appointed—the new commissioner to take the same oath or affirmation, and to perform the same duties as his predecessor.
 
@@ -1306,16 +1144,6 @@ Moreover, there was a peculiar reason for the provision which has been made in o
 As to the revival of the claims of traitors or exiles, if property, confiscated and taken away , is property holden by those who have been deprived of it, then there may be ground for alarm on this score. How painful is it to behold such gross attempts to deceive a whole people on so momentous a question! How afflicting, that imposture and fraud should be so often able to assume with success the garb of patriotism? And that this sublime virtue should be so frequently discredited by the usurpation and abuse of its name!
 
 
-
-
-
-
-
-NO . XVIII
-
-
-1795.
-
 It is provided by the tenth article of the treaty that “neither debts due from individuals of one nation to individuals of the other, nor shares, nor moneys, which they may have in the public funds, or in the public or private banks, shall ever in any event of war, or national difference, be sequestered or confiscated; it being unjust and impolitic, that debts and engagements contracted and made by individuals, having confidence in each other, and in their respective governments, should ever be destroyed or impaired by national authority on account of national differences and discontents.”
 
 The virulence with which this article has been attacked cannot fail to excite very painful sensations in every mind duly impressed with the sanctity of public faith, and with the importance of national credit and character; at the same time that it furnishes the most cogent reasons to desire that the preservation of peace may obviate the pretext and the temptation to sully the honor and wound the interests of the country by a measure which the truly enlightened of every nation would condemn.
@@ -1346,16 +1174,6 @@ Away with these absurd and incongruous sophisms! Blush, ye apostles of temerity,
 
 In the further observations which I shall offer on this article, I hope to satisfy, not the determined leaders or instruments of faction, but all discerning men, all good citizens, that, instead of being a blemish, it is an ornament to the instrument in which it is contained; that it is as consistent with true policy as with substantial justice; that it is, in substance, not without precedent in our other treaties, and that the objections to it are futile.
 
-
-
-
-
-
-
-NO . XIX
-
-
-1795.
 
 The objects protected by the tenth article are classed under four heads: 1, Debts of individuals to individuals; 2, property of individuals in the public funds; 3, property of individuals in public banks; 4, property of individuals in private banks. These, if analyzed, resolve themselves, in principle, into two discriminations, viz.: private debts, and private property in public funds. The character of private property prevails throughout. No property of either government is protected from confiscation or sequestration by the other. This last circumstance merits attention, because it marks the true boundary.
 
@@ -1403,16 +1221,6 @@ These exceptions involve no refinement; they depend on obvious considerations, a
 
 We shall see in the next number how far either has been the case, and what influence it ought to have upon the question.
 
-
-
-
-
-
-
-NO . XX
-
-
-1795.
 
 The point next to be examined is the right of confiscation or sequestration, as depending on the opinions of jurists and on usage.
 
@@ -1529,12 +1337,6 @@ What remains to be offered will further illustrate its propriety, and reconcile 
 
 
 
-
-NO . XXI
-
-
-1795.
-
 Since the closing of my last number, I have accidentally turned to a passage of Vatel, which is so pertinent to the immediate subject of that paper, that I cannot refrain from interrupting the progress of the discussion, to quote it; it is in these words (B. III., Ch. IV., Sec. 63): “The sovereign declaring war can neither detain those subjects of the enemy, who are within his dominions at the time of the declaration, nor their effects . They came into his country on the public faith. By permitting them to enter his territories, and continue there he tacitly promised them liberty and security for their return.” This passage contains, explicitly, the principle which is the general basis of my argument—namely, that the permission to a foreigner to come with his effects into, and acquire others within our country, in time of peace, virtually pledges the public faith for the security of his person and property, in the event of war. How can this be reconciled with the natural right (controlled only by the customary law of nations) which this writer admits, to confiscate the debts due by the subjects of a State to its enemies? I ask once more, can there be a natural right to do that which includes a violation of faith?
 
 It is plain, to a demonstration, that the rule laid down in this passage, which is so just and perspicuous as to speak conviction to the heart and understanding, unites the natural with the customary law of nations, in a condemnation of the pretension to confiscate or sequester the private property of our enemy, found in our country at the breaking out of a war.
@@ -1607,16 +1409,6 @@ Instead of cherishing so odious a pretension, as “our best, our only weapon of
 
 Every merchant ought to desire that the most perfect tranquillity on this point, in foreign countries, should facilitate to him, on the best and cheapest terms, the credit for which he has occasion. And every other citizen ought to desire, that he may be thus freed from a continual contribution, in the enhanced price of every imported commodity he consumes, towards defraying the premium which the want of that tranquillity is calculated to generate.
 
-
-
-
-
-
-
-NO . XXII
-
-
-1795.
 
 The analogy of the stipulation in the 10th article, with stipulations in our other treaties, and in the treaties between other nations, is the remaining topic of discussion. After this, attention will be paid to such observations, by way of objection to the article, as may not have been before expressly or virtually answered.
 
@@ -1721,11 +1513,6 @@ The articles which adjust the matters of controversy between the two countries, 
 Is it at all probable that they can contain any thing so injurious, considering the short duration which may be given to them, as to counterbalance the important consideration of preserving peace to this young country; as to warrant the excessive clamors which have been raised; as to authorize the horrid calumnies which are vented; and to justify the systematic efforts which are in operation to convulse our country and to hazard even CIVIL WARR ? 1
 
 
-
-NO . XXIII 1
-
-1795.
-
 The preceding articles having adjusted those controversies which threatened an open rupture between the two countries, it remained to form such dispositions relative to the intercourse, commerce, and navigation of the parties as should appear most likely to preserve peace, and promote their mutual advantage.
 
 Those who have considered with attention the interests of commerce will agree in the opinion, that its utility, as well as general prosperity, would be most effectually advanced by a total abolition of the restraints and regulations with which the jealousies and rival policy of nations have embarrassed it. But though we are not chargeable with having contributed to the establishment of these errors, so discouraging to the industry and perplexing in the intercourse of nations, we found them so deeply rooted and so extensively prevalent, that our voice and opinions would have been little regarded, had we expressed a desire of a system more liberal and advantageous to all.
@@ -1788,12 +1575,6 @@ America has her opinions, perhaps prejudices, on the subject of commerce: she is
 
 It cannot have escaped notice, that we have among us characters who are unwilling to see stated the impediments that stand in the way of the commercial arrangements which, they contend, should be conceded to us by foreign nations, and who are ready to charge those who faithfully expose them, with an inclination to excuse or vindicate the unreasonable denials of our commercial rivals, and with a desire to yield up the just pretensions of our country. The article seems too gross to be dangerous with a sensible people, but the public should notwithstanding be on their guard against it. They should dispassionately examine the real difficulties to be encountered in the formation of our commercial treaties. They should inquire and ascertain how far other nations, seeking the same advantages, have been able to succeed. They should further compare the treaty in question with those we have made before with other nations. The result of such investigation, so far from warranting the condemnation of the commercial articles of the treaty before us, it is believed, would demonstrate that these articles make a wider breach in the British commercial system than has ever before been made; that on their commercial dispositions they are preferable to any treaty we have before concluded; and that there is rational ground to believe that the treaty will have a tendency friendly to the agriculture, the commerce, and the navigation of our country.
 
-
-
-NO. XXIV
-
-
-1795.
 
 HOWEVER uniform may have been the law of Europe in relation to the colonial establishments, no pains have been spared to create an opinion that France has been guided by a more liberal policy than the other colonizing powers, and that the regulations of her colony trade were essentially dissimilar from theirs; moreover, that her disinterestedness was so great, that she not long since proposed to our Government to establish, by treaty, a trade between us and her West India colonies equally free with that which prevails in her own intercourse with them. The object of these attempts is readily perceived.
 
@@ -1863,16 +1644,7 @@ In a supplemental instruction, the executive council say: “As soon as the nego
 
 These were extraordinary means to enable the French minister to conclude with our Government a pacific treaty of commerce. The above extracts, though not an entire translation of the whole of Mr. Genet’s instructions, many parts of which are foreign to the point in discussion, are a faithful abstract of such parts of them as relate to the principles and conduct of the French monarchy toward us, and are explanatory of the views of the executive council on the subject of a new treaty of commerce. It will, I think, prove, if the assertions of that council are to be credited, that the gratitude, of which we have heard so much, ought not to be demanded on account of the principles that influenced the monarchy of France during our war, or subsequent to the peace; and furthermore, it will prove that the real view of the French executive council in the mission of Mr. Genet, was to engage us, by advantages to be conceded in a new commercial treaty, to make common cause with France, in the expected war with Great Britain and the coalesced powers. If, then, the established footing of our trade with the Britishislands has been dictated by that colonial system of monopoly which forms a fundamental law in Europe; and if, moreover, the opinion that we could have procured a new and more liberal treaty of commerce with France, without plunging our country in the present war, is an error, that has been artfully imposed on the public, by exposing these truths, the examination of the treaty with Great Britain is at once freed from the objections and aspersions that have proceeded from these errors.
 
- 
 
-
-
-
-
-NO. XXV
-
-
-1795.
 
 It will be useful, as it will simplify the examination of the commercial articles of the treaty, to bear in mind and preserve the division that we find established by the 12th, 13th, and the 14th and 15th articles; each respects a particular branch or portion of the trade between the two countries, the regulations whereof differ from, and are severally independent of, each other. Thus one is relative to the West Indies, another to the East Indies, and a third, distinct from both the former, respects our trade with the British dominions in Europe.
 
@@ -1919,17 +1691,6 @@ It has been alleged, should the expected modification of this article retain its
 So much of the 12th article as respects its duration and the renewal of the negotiation previous to the expiration of two years after the conclusion of the war, in order to agree in a new arrangement on the subject of the West India trade, as well as for the purpose of endeavoring to agree whether in any, and in what cases, neutral vessels shall protect enemy’s property, and in what cases provisions, and other articles not generally contraband, may become such, form a part of the treaty as ratified by the President. These clauses sufficiently explain themselves, and require no comment in this place. They, however, prove one point, which is, that afterevery effort on the part of our negotiator, the parties were not able to agree in the doctrine that free bottoms should make free goods, nor in the cases in which alone provisions and other articles not generally contraband, should be deemed such. Leaving, therefore, both these points precisely as they found them (except in respect to provisions, the payment for which, when by the law of nations liable to capture as contraband, is secured), to be regulated by the existing law of nations, it is stipulated to renew the negotiation on these points at the epoch assigned for the future adjustment of the West India trade, in order then to endeavor to agree in a conventional rule, which, instead of the law of nations, should thereafter regulate the conduct of the parties in these respects.
 
 [The 11th article has been passed over in silence as being merely introductory and formal.]
-
-
-
-
-
-
-
-NO. XXVI (FROM THE MINERVA. ) 1
-
-
-1795.
 
 The British trade to their possessions in the East Indies, as well as to China, is a monopoly vested by the Legislature in a company of merchants. No other persons in Great Britain, nor in any of her dominions or colonies, can send a vessel to, or prosecute trade independent of the company, with any part of Asia. The right to trade with their possessionsin India is not only refused to all British subjects, the India Company excepted, but is one that Great Britain has never before yielded by treaty to any foreign nation. By the terms of the charter to the India Company, among a variety of limitations, they are restrained and confined to a direct trade between Asia and the port of London; they are prohibited from bringing any of the productions of India or China directly to any part of America, as well to the British colonies as to our territories; and moreover, they are restrained from carrying any of the productions of Asia directly to any part of Europe, or to any port in Great Britain, Scotland, or Ireland, except the single port of London.
 
@@ -1988,15 +1749,6 @@ The British manufacturers were not satisfied even with this prohibitory system; 
 Those facts are noticed to show the advantages to be derived from a free access to the India market, from whence we may obtain those goods which would be extensively consumed even in the first manufacturing nations of Europe, did not the security of their manufactories require their exclusion. 1
 
 
-
-
-
-
-
-NO. XXVII
-
-
-1795.
 
 The third article contains the terms and conditions of the trade and intercourse that it authorizesbetween us and the British colonies on the American continent. The twelfth article was intended to adjust the trade between us and the British islands in the West Indies. The thirteenth article secures to us a direct trade with the British territories in the East Indies; and it is the office of the fourteenth and the fifteenth articles to ascertain and establish the terms of the intercourse and trade between the territories of the United States and the British dominions in Europe.
 
@@ -2060,16 +1812,6 @@ The second and third articles of our treaty with Holland, and the third and four
 
 The preceding exposition of these articles, illustrated by the comparison of their provisions with the analogous articles of our other treaties, would be sufficient to vindicate them against the objections to which they have been exposed. It is, however, thought advisable to take notice of such of these objections as are likely to have any influence on the public opinion.—[This will be done in a subsequent number.]
 
-
-
-
-
-
-
-NO. XXVIII
-
-
-1795.
 
 An extraordinary construction of the last clause of the fourteenth article has been assumed by the writer of Cato; his mistake in this instance has been the foundation of many of the errors with which that performance abounds. The article stipulates that there shall be a perfect and reciprocal liberty of navigation and commerce between our territories and those of Great Britain in Europe, subject always to the laws and statutes of the two countries, respectively. This navigation and commerce, says Cato, must be subject to, and defined and regulated by, the laws and statutes of the two countries which existed at the time of making the treaty; all future laws, that either party might be disposed to make, relative to the same, being excluded.
 
@@ -2148,16 +1890,6 @@ The same language is employed in our subsequenttreaties with Holland and with Sw
 On the whole, the more closely this question is examined the more doubtful will the policy appear of our entering into treaties of this description. We shall have to encounter not only the intrinsic difficulties that always attend a fair and precise adjustment of the equivalents, together with the national discontents that proceed from errors on this point; but, moreover, a still greater embarrassment from the circumstance that our great staple exports are not the common productions of the whole Union, but different articles are peculiar to different parts thereof. If, notwithstanding, our Government shall discover an instance in which, consistent with the common interest and sound policy, such a treaty might be desirable, we have scope sufficient to form it without incurring loss or disadvantage by the operation of our treaty with Great Britain.
 
 
-
-
-
-
-
-NO. XXIX
-
-
-1795.
-
 The sixteenth article is entirely conformable to the usage and custom of nations. The exchange of consuls had already taken place between us and Great Britain; and their functions and privileges being left to the definition of the law of nations, we shall be exempt from those unpleasant controversies that too often arise from special conventions, which enlarge the consular privileges, power, and jurisdiction.
 
 The agreement that either party may punish, dismiss,or send back a consul for illegal or improper conduct, is calculated to prevent national misunderstandings, and to secure a respectful deportment in the consular corps. I have not observed that this article has been disapproved of from any quarter.
@@ -2215,16 +1947,6 @@ Grotius, that learned and persecuted friend of liberty, whose life and great tal
 Other authors of respectability might be quoted; but those already named will be acknowledged as the ablest, and their authority the most decisive of any that can be cited. So strong, clear, and uninterrupted, are the authorities of the writers on public law in relation to these points, that the advocates of an opposite rule may be challenged to produce a single authority of approved respectability in support of their opinion. 1
 
 
-
-
-
-
-
-NO. XXX
-
-
-1795.
-
 Admitting that it was the law of nations that enemy’s goods might be seized in neutral ships, it is alleged by Cato and other writers, who have appeared on the same side, that the treaties which have been formed between nations have annulled this law, and established another in its stead, equally extensive and binding on the whole civilized world.
 
 In discussing this allegation, we should remember that all nations are in a state of equality, and independent of each other. No law, other than the necessary or natural law of nations, is binding on any nation without its consent, expressly or tacitlygiven. A law among nations cannot, like a civil or municipal law, be annulled, or enacted by a majority, or any portion short of the whole. By agreement between two or more nations, the operation of a law already in existence may be suspended so far as respects themselves; but such agreement works no change of such law, in relation to the rights or duties of other nations. The same is true of any rule of action established by convention between two nations; such rule is obligatory on the parties that form the contract, but is wholly without effect and nugatory in respect to all other nations. Unless, then, all nations have concurred in the design to annual this law, it must still exist; and treaties containing opposite stipulations can be considered in no other light than as exceptions to the same, in which certain nations have seen it their interest to agree.
@@ -2268,17 +1990,6 @@ These provisions being well understood, the article concludes with a stipulation
 This examination, I flatter myself, has fulfilled its object, which was to prove, that the article relinquishes no right that we possessed as a nation; that it is agreeable to, and supported by, the law of nations. A law in relation to this subject, coeval with the origin of maritime commerce, and the principles whereof have immemorially operated among nations.
 
 It was desirable that a stipulation, similar to that contained in our other treaties, should have been obtained. But the time was unfavorable to the attainment of this object; and, as with great propriety has been observed by Mr. Jefferson, in behalf of our Government, “since it depends on the will of other nations as well as our own, we can only obtain it when they shall be ready to consent.” By the 12th article, the parties agree to renew the negotiation on this point, within the compass of two years after the conclusion of the present war; when perhaps the restoration of peace, and other circumstances, may prove more propitious to our views.
-
-
-
-
-
-
-
-NO. XXXI
-
-
-1795.
 
 I resume the subjects of the two last papers for the sake of a few supplementary observations.
 
@@ -2342,16 +2053,6 @@ It is much to be suspected, that there will always be found advantages essential
 
 It has been said to be just matter of surprise, that these precautions should have no place in a treaty with Great Britain, whose conduct on the seas so particularly suggested and enforced every guard to our rights that could be reasonably insisted on. Observations of this kind assume constantly the supposition that we had it in our power to fashion every provision of the treaty exactly to our own taste, and that the ideas of the other contracting party were to have no influence even upon the minor features of the contract. But this supposition is absurd; and a treaty may still be entitled to our approbation, which adjusts acceptably the great points of interest, though in some of its details it falls short of our desires. Nor can any well-informed man sincerely deny that it was to have been expected, that an adjustment of the particulars in question would fall short of our ideas. It may be answered, that we were then at liberty not to make the treaty; so we were, but does it follow that it would have been wise to split on such points?—upon a just estimate, their intrinsic value is very moderate.
 
-
-
-
-
-
-
-NO. XXXII
-
-
-1795.
 
 The eighteenth article of the treaty, which regulates the subject of contraband, has been grievously misrepresented; the objections used against it withmost acrimony, are disingenuous and unfounded! Yet while I make this assertion, which, I flatter myself, I shall be able to prove, I shall not pretend to maintain that it is an article completely satisfactory. I even admit that it has one unpleasant ingredient in it, and I am convinced that our envoy must have consented to it with reluctance.
 
@@ -2417,16 +2118,6 @@ The same disingenuous spirit which tinctures all the conduct of the adversaries 
 
 Strange, that an order issued before the treaty had ever been considered in this country, and embracing the other neutral powers besides the United States, should be represented as the fruit of that instrument! 1 The appearances are, that a motive no less imperious than that of impending scarcity has great share in dictating the measure, and time, I am persuaded, will prove that it will not ever be pretended to justify it by any thing in the treaty.
 
-
-
-
-
-
-
-NO. XXXIII
-
-
-1796.
 
 The course thus far pursued in the discussion of the 18th article has inverted the order of it, as it standsin the treaty. It is composed of three clauses, the two last of which have been first examined; I thought it advisable, in the outset, to dispose of an objection which has been the principal source of clamor.
 
@@ -2509,16 +2200,6 @@ Differences of these several kinds are the accidental results of the varying vie
 The form of the criticisms last stated leaves little doubt that it was designed to insinuate an intention in this article to favor the monarchs of Great Britain, at the expense of the republics of France and Holland. The candor of it may be judged of by the two facts: first, that it makes no alteration, in this view, in the antecedent state of things; and secondly, that the relative situation of Holland, as the enemy of Great Britain, is subsequent to the adjustment of the article.
 
 
-
-
-
-
-
-NO. XXXIV 1
-
-
-1796.
-
 The remaining articles of the treaty principally relate to those maritime regulations that are usually inserted in modern treaties between commercial nations, and on that consideration, as well as from their evident utility in enabling us to distinguish with precision between what is and what is not lawful in relation to those points, they are entitled to our approbation; still however, even some of these customary articles, whose object and meaning are so well understood, have been deemed exceptionable.
 
 The first paragraph of the nineteenth article, in order to prevent injuries by men of war, or privateers, enjoins (as before noticed) all commanders of ships of war and privateers, and all other citizens or subjects, of either party, to forbear doing any damage to those of the other, or from committing any outrage against them; and declares that, if they act to the contrary, they shall be punishable, and, moreover, bound in their persons and estates to make full satisfaction and reparation for all damages, of whatsoever nature the same may be.
@@ -2553,16 +2234,6 @@ Though most of the objections preferred against the treaty are marked with that 
 
 What virtuous citizen would feel himself justified in accepting such command? What must be the morals of those instructors who contend for a freedom to commit what humanity and honor forbid? Every treaty that we have concluded with other nations is enriched with this stipulation; not only our own treaties, but those between other nations contain it. How is it that we nowhere discover a trace of disapprobation, either on the part of our statesmen, or from an enlightened people, against a series of treaties, formed by different public ministers, and ratified by a succession of Congresses, each of which contains a provision that the crime of accepting a foreign commission to arm and command a privateer, against a nation with whom we are at peace, shall be treated and punished as piracy? Is it that our virtue has become less severe? our morality more indulgent? Or is it that our predecessors were less vigilant in defending the rights of our citizens, than the ostentatious patriots of the present day? But it is time to dismiss an objection entirely destitute of integrity and [decency].
 
-
-
-
-
-
-
-NO. XXXV
-
-
-1796.
 
 The twenty-second article bears upon its face its own justification—it is pursuant to those [maxims which enlightened moralists recommend, and just nations respect]. It prescribes a course of conduct the most likely to procure satisfaction for injuries, and to maintain peace, and is therefore entitled to the approbation of all good men and real patriots. [It is particularly valuable to a weak nation, or a nation in its infancy, as an additional guard against sudden and unforeseen attacks of more powerful rivals.]
 
@@ -2606,14 +2277,6 @@ The twenty-eighth and concluding article establishes, that the first ten article
 
 signed
 
-
-
-
-
-NO. XXXVI
-
-
-1796
 
 It is now time to fulfil my promise of an examination of the constitutionality of the treaty. Of all the objections which have been contrived against this instrument, those relating to this point are the most futile. If there be a political problem capable of complete demonstration, the constitutionality of the treaty, in all its parts, is of this sort.—It is even difficult to believe, that any man in either house of Congress, who values his reputation for discernment or sincerity, will publicly hazard it by a serious attempt to controvert the position.
 
@@ -2674,17 +2337,6 @@ When it is said that Congress shall have power to regulate commerce with foreign
 This will the better appear from the entire clause. “The Congress shall have power to regulate commerce with foreign nations and among the several States and with the Indian tribes,” which is the same as if it had been said: The whole powers of regulating trade by law shall reside in Congress, except as to the trade within a State, the power to regulate which shall remain with such State. But it is clearly foreign to that mutual regulation of trade between the United States and other nations, which, from the necessity of mutual consent, can only be performed by treaty. It is indeed an absurdity to say, that the power of regulating trade by law is incompatible with the power of regulating it by treaty; since the former can, by no means, do what the latter alone can accomplish; consequently, it is an absurdity to say, that the legislative power of regulating trade is an exception to the power of making treaties.
 
 Laws are the acts of legislation of a particular nation for itself. Treaties are the acts of the legislation of several nations for themselves jointly and reciprocally. The legislative powers of one state cannot reach the cases which depend on the joint legislation of two or more states. For this, resort must be had to the pactitious power, or the power of treaty. This is another attitude of the subject, displaying the fallacy of the proposition, that the legislative powers of Congress are exceptions to, orlimitations of, the power of the President, with the aid of the Senate, to make treaties.
-
-
-
-
-
-
-
-NO. XXXVII
-
-
-1796.
 
 It shall now be shown that the objections to the treaty, founded on its pretended interference with the power of Congress, tend to render the power of making treaties, in a very great degree, if not altogether, nominal. This will be best seen by an enumeration of the cases of pretended interference.
 
@@ -2754,16 +2406,6 @@ In considering the power of legislation in its relations to the power of treaty,
 
 The effects of a treaty to impose restraints upon the legislative powers may, in some degree, be exemplified by the case of the compacts which the Legislature itself makes, as with regard to the public debt. Its own compacts are, in good faith, exceptionsto its power of action. Treaties with foreign powers, for obvious reasons, are much stronger exceptions.
 
-
-
-
-
-
-
-NO. XXXVIII—AND LAST
-
-
-1796.
 
 The manner in which the power of treaty, as it exists in the Constitution, was understood by the convention in framing it, and by the people in adopting it, is the point next to be considered.
 
