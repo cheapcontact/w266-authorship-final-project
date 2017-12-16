@@ -1,0 +1,5 @@
+learning_rate : 0.08
+train_data_dir : ./train_final
+batch_size : 50
+max_time : 15
+num_epochs : 100
